@@ -1,3 +1,6 @@
+/* Author: Yatharth Mishra
+*/
+
 #include <iostream>
 using namespace std;
 
